@@ -11,6 +11,10 @@
 
 </div>
 
+## DECK
+[TBS.XYZ (Copia).pdf](https://github.com/user-attachments/files/23695478/TBS.XYZ.Copia.pdf)
+[ALA_hackathon (3).pdf](https://github.com/user-attachments/files/23695049/ALA_hackathon.3.pdf)
+
 ---
 
 ## 🌟 About ALA
