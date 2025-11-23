@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ALA-eth-global/frontend/main/public/icon.svg" alt="ALA Logo" width="200"/>
+<img width="893" height="279" alt="Gemini_Generated_Image_qe3q9yqe3q9yqe3q-removebg-preview" src="https://github.com/user-attachments/assets/a7528cfa-ac50-4cfd-a613-1fc665559e79" />
 
-# ALA Protocol
+# ALA: Autonomus Liquidity Agents
 
-**AI-Driven Dynamic Fees & Automated Liquidity Rehypothecation for Uniswap V4**
+**AMM built by a network of data scientists**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Ethereum Sepolia](https://img.shields.io/badge/Deployed-Ethereum%20Sepolia-blue)](https://sepolia.etherscan.io)
@@ -14,8 +14,6 @@
 ---
 
 ## 🌟 About ALA
-
-**ALA Protocol** is a revolutionary Uniswap V4 Hook that introduces **AI-driven dynamic fees** and **automated liquidity rehypothecation** to maximize Liquidity Provider (LP) returns through intelligent inventory management.
 
 ### 🎯 Core Features
 
@@ -72,34 +70,6 @@ Our codebase is organized into specialized repositories:
 
 For detailed setup instructions, visit the [ala-protocol README](https://github.com/ALA-eth-global/ala-protocol).
 
----
-
-## 📊 Architecture
-
-```
-┌─────────────────────────────────────────────────────────────┐
-│                    ALA Protocol Stack                        │
-├─────────────────────────────────────────────────────────────┤
-│                                                               │
-│  ┌──────────────┐    ┌──────────────┐    ┌──────────────┐  │
-│  │   Frontend   │───▶│  Data Layer  │───▶│  AI Models   │  │
-│  │  (Next.js)   │    │  (The Graph) │    │  (Analytics)  │  │
-│  └──────────────┘    └──────────────┘    └──────────────┘  │
-│         │                   │                    │          │
-│         └───────────────────┼────────────────────┘          │
-│                             │                                │
-│                    ┌─────────▼─────────┐                    │
-│                    │  Backend/Oracle    │                    │
-│                    │  (Fee Signing)     │                    │
-│                    └─────────┬─────────┘                    │
-│                             │                                │
-│                    ┌─────────▼─────────┐                    │
-│                    │  Smart Contracts  │                    │
-│                    │  (Uniswap V4)     │                    │
-│                    └───────────────────┘                    │
-│                                                               │
-└─────────────────────────────────────────────────────────────┘
-```
 
 ---
 
@@ -116,6 +86,8 @@ The ALA Protocol has been successfully deployed on **Ethereum Sepolia**:
 ---
 
 ## 📈 Alpha Generation
+
+[ALA_hackathon (3).pdf](https://github.com/user-attachments/files/23695049/ALA_hackathon.3.pdf)
 
 Our backtesting engine calculates **Alpha (α)** using the official evaluation metric:
 
