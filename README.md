@@ -1,6 +1,6 @@
 <div align="center">
 
-![ALA Logo](https://raw.githubusercontent.com/ALA-eth-global/frontend/main/public/icon.svg)
+<img src="https://raw.githubusercontent.com/ALA-eth-global/frontend/main/public/icon.svg" alt="ALA Logo" width="200"/>
 
 # ALA Protocol
 
